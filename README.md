@@ -8,9 +8,9 @@ see also link to the documentation with more information: https://docs.hanami-ai
 
 ### I’m currently learning
 
-- japanese
-- javascript
-- go
+- Japanese
+- Rust
+- Javascript
 
 ### Contact
 
@@ -19,11 +19,15 @@ see also link to the documentation with more information: https://docs.hanami-ai
 
 ### Stats
 
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kitsudaiki&theme=github) 
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kitsudaiki&theme=github&include_all_commits=true&hide=contribs)
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kitsudaiki&theme=github)
+ 
 
-![Tobias's github stats](https://github-readme-stats.vercel.app/api?username=kitsudaiki&hide=contribs&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kitsudaiki&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
+ ![](https://github-readme-stats.vercel.app/api?username=kitsudaiki&hide=contribs&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kitsudaiki&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 **kitsudaiki/kitsudaiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hi there 👋
 
