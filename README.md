@@ -15,7 +15,7 @@ see also link to the documentation with more information: https://docs.hanami-ai
 ### Contact
 
 - eMail: tobias.anker@kitsunemimi.moe
-- [LinkedIn](https://www.linkedin.com/in/tobias-anker)
+- [LinkedIn](https://www.linkedin.com/in/tobiasanker42)
 
 ### Stats
 
