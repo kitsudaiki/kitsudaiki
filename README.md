@@ -2,15 +2,14 @@
 
 ### My main-project
 
-https://github.com/kitsudaiki/Hanami-AI
 
-see also link to the documentation with more information: https://docs.hanami-ai.com/
+<img align="left" width="100" height="100" src="assets/hanami-logo.png">
 
-### I’m currently learning
+Name: **Hanami**
 
-- Japanese
-- Rust
-- Javascript
+Repository: https://github.com/kitsudaiki/Hanami
+
+Documentation: https://docs.hanami-ai.com/
 
 ### Contact
 
