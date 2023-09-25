@@ -3,9 +3,11 @@
 ### My main-project
 
 
-<img align="left" width="100" height="100" src="assets/hanami-logo.png">
+<img align="left" width="180" height="180" src="assets/hanami-logo.png">
 
 Name: **Hanami**
+
+Short-Desctription: Experimental AI-as-a-Service based on a custom concept, which doesn't require normalization of input-values. 
 
 Repository: https://github.com/kitsudaiki/Hanami
 
