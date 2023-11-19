@@ -1,7 +1,5 @@
 ## Hi there
 
----
-
 ### My project
 
 
@@ -107,5 +105,3 @@
 
 - eMail: tobias.anker@kitsunemimi.moe
 - [LinkedIn](https://www.linkedin.com/in/tobiasanker42)
-
----
