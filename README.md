@@ -92,7 +92,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kitsudaiki&theme=github) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kitsudaiki&theme=github&include_all_commits=true&hide=contribs)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kitsudaiki&layout=compact&theme=github&langs_count=20)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kitsudaiki&layout=compact&theme=github&langs_count=20&card_width=356)
 
 <!--
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kitsudaiki&theme=github)
