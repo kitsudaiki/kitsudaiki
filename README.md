@@ -1,6 +1,8 @@
 ## Hi there
 
-### My main-project
+---
+
+### My project
 
 
 <img align="left" width="170" height="170" src="assets/hanami-logo.png">
@@ -12,6 +14,20 @@
 *Repository*: https://github.com/kitsudaiki/Hanami
 
 *Documentation*: https://docs.hanami-ai.com/
+
+---
+
+### Stats
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kitsudaiki&theme=github) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kitsudaiki&theme=github&include_all_commits=true&hide=contribs)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kitsudaiki&layout=compact&theme=github&langs_count=20&card_width=356)
+
+<!--
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kitsudaiki&theme=github)
+-->
+
+---
 
 ### My tech stack
 
@@ -75,6 +91,8 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)
 
+---
+
 ### What I want to learn too
 
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
@@ -83,19 +101,11 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=WebAssembly&logoColor=white)
 
+---
+
 ### Contact
 
 - eMail: tobias.anker@kitsunemimi.moe
 - [LinkedIn](https://www.linkedin.com/in/tobiasanker42)
 
-### Stats
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kitsudaiki&theme=github) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kitsudaiki&theme=github&include_all_commits=true&hide=contribs)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kitsudaiki&layout=compact&theme=github&langs_count=20&card_width=356)
-
-<!--
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kitsudaiki&theme=github)
-
-
--->
+---
