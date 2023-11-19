@@ -21,7 +21,6 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 
@@ -93,7 +92,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kitsudaiki&theme=github) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kitsudaiki&theme=github&include_all_commits=true&hide=contribs)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kitsudaiki&layout=compact&theme=github)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kitsudaiki&layout=compact&theme=github&langs_count=20)
 
 <!--
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kitsudaiki&theme=github)
