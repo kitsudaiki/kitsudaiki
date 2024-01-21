@@ -2,12 +2,11 @@
 
 ### My project
 
-
 <img align="left" width="170" height="170" src="assets/hanami-logo.png">
 
 *Name*: **Hanami**
 
-*Short-Desctription*: Experimental AI-as-a-Service based on a custom concept, which doesn't require normalization of input-values. 
+*Short-Desctription*: A custom developed artificial neural network, which can grow over time and doesn't require normalization of input-values, within an as-a-Service structure.
 
 *Repository*: https://github.com/kitsudaiki/Hanami
 
@@ -98,6 +97,12 @@
 ![Vue](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=WebAssembly&logoColor=white)
+
+---
+
+### What I wish for
+
+I want to live in Japan, so I hope to find a suitable job for me there, to make this possible.
 
 ---
 
