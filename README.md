@@ -4,13 +4,13 @@
 
 <img align="left" width="170" height="170" src="assets/hanami-logo.png">
 
-*Name*: **OpenHanami**
+*Name*: **Ainari**
 
 *Short-Desctription*: A custom developed artificial neural network, which can grow over time and doesn't require normalization of input-values, within an as-a-Service structure.
 
-*Repository*: https://github.com/kitsudaiki/OpenHanami
+*Repository*: https://github.com/kitsudaiki/ainari
 
-*Documentation*: https://docs.openhanami.com/
+*Documentation*: https://docs.ainari.cloud/
 
 ---
 
