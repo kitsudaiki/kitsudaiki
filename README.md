@@ -5,7 +5,7 @@
 
 ---
 
-<img align="left" width="150" height="150" src="assets/ainari_logo.jpg">
+<img align="left" width="140" height="140" src="assets/ainari_logo.jpg">
 
 *Name*: **Ainari**
 
@@ -18,7 +18,7 @@
 
 ---
 
-<img align="left" width="150" height="150" src="assets/hanami-logo.png">
+<img align="left" width="140" height="140" src="assets/hanami-logo.png">
 
 *Name*: **Saki**
 
